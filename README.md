@@ -16,7 +16,7 @@ My HackerRank account: [Link](https://www.hackerrank.com/mr_eterna99) 👦
 - Organizing Containers of Balls [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Medium/Organizing%20Containers%20of%20Balls) | [Problem](https://www.hackerrank.com/challenges/organizing-containers-of-balls?h_r=profile)
 - Queen's Attack [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Medium/Queen's%20Attack) | [Problem](https://www.hackerrank.com/challenges/queens-attack-2?h_r=profile)
 - Repeating String [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Medium/Repeating%20String) | [Problem](https://www.hackerrank.com/challenges/repeated-string?h_r=profile)
-- Tree: Huffman Decoding [Solution]() | [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+- Tree: Huffman Decoding [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Medium/Tree-Huffman%20decoding) | [Problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
 ### Hard 😭 
 - AndXorOr [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Hard/AndXorOr) | [Problem](https://www.hackerrank.com/challenges/and-xor-or?h_r=profile)
 - PoisonousPlant [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Hard/PoisonousPlant) | [Problem](https://www.hackerrank.com/challenges/poisonous-plants?h_r=profile)
