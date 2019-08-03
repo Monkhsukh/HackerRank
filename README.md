@@ -20,8 +20,8 @@ My HackerRank account: [Link](https://www.hackerrank.com/mr_eterna99)
 - AndXorOr
 - PoisonousPlant
 ### Other problems
--Divide numbers to String
--Head or Tails
--LCSLength (Dynamic programming problem)
--Vector addition (C++ template usage)
--Container (C++ template, operator override, constructor, destructor usage)
+- Divide numbers to String
+- Head or Tails
+- LCSLength (Dynamic programming problem)
+- Vector addition (C++ template usage)
+- Container (C++ template, operator override, constructor, destructor usage)
