@@ -5,6 +5,7 @@ My HackerRank account: [Link](https://www.hackerrank.com/mr_eterna99) 👦
 
 ## My solved problems
 ### Easy 😃 
+- Maximizing XOR [Solution](https://github.com/Monkhsukh/HackerRank/blob/master/Easy/maximize_xor.cpp) | [Problem](https://www.hackerrank.com/challenges/maximizing-xor/problem)
 - ACM ICPC team   [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Easy/ACM%20ICPC%20team) | [Problem](https://www.hackerrank.com/challenges/acm-icpc-team?h_r=profile)
 - Counting Valleys [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Easy/Counting%20Valleys) | [Problem](https://www.hackerrank.com/challenges/counting-valleys?h_r=profile)
 - Equalize the Array [Solution](https://github.com/Monkhsukh/HackerRank/tree/master/Easy/Equalize%20the%20Array) | [Problem](https://www.hackerrank.com/challenges/equality-in-a-array?h_r=profile)
